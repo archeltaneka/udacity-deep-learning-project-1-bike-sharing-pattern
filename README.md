@@ -7,7 +7,6 @@ In this project, I will build a neural network from scratch to carry out a predi
 
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
 
-------------------------------------------------------
 ## Prerequisites
 - Python 3.x
 - Numpy v1.19
